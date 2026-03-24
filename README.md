@@ -1,80 +1,81 @@
-Data Analytics Portfolio
+# 👋 Hi, I'm Cristhofer Frank
 
-Welcome to my Data Analytics portfolio.
+---
 
-This repository contains projects demonstrating my skills in SQL, Excel, and Power BI for data analysis and data visualization.
-My goal is to apply analytical techniques to transform raw data into meaningful insights.
+## 🚀 About Me
 
+I am an aspiring Data Analyst passionate about transforming data into meaningful insights.  
+Currently building my skills in data analysis, visualization, and business intelligence.
 
-Tools & Skills
-SQL (Joins, Window Functions, CTEs, Data Cleaning)
-Microsoft Excel (Pivot Tables, Data Analysis)
-Power BI (Dashboards, Data Visualization)
-Data Exploration
-Data Transformation
+- 📊 Focused on Data Analysis (SQL, Excel, Power BI)
+- 🐍 Currently learning Python for data analytics
+- 🎯 Goal: Become a Data Analyst and grow
 
+---
 
-Projects
-1. COVID-19 Data Exploration (SQL)
-Analysis of global COVID-19 data to explore infection rates, death percentages, and vaccination progress.
+## 🛠️ Skills & Tools
 
+- SQL  
+- Excel (Pivot Tables, Data Cleaning, Dashboards)  
+- Power BI  
+- Power Query  
+- Data Visualization  
+- Basic Python (in progress)
 
-Key SQL techniques used:
+---
 
-Joins
-Window Functions
-CTE (Common Table Expressions)
-Temporary Tables
-Views
-Data Type Conversion
+## 📂 Projects
 
+### 📊 HR Employee Distribution Dashboard
+- Analysis of workforce data (SQL + Power BI)  
+- Insights on gender, location, diversity, and growth  
 
+👉 [View Project](coloque-link)
 
-File:
-SQL/covid-data-exploration.sql
+---
 
+### 🦠 COVID-19 Data Exploration
+- SQL-based analysis of global pandemic data  
+- Focus on cases, deaths, and trends  
 
+👉 [View Project](coloque-link)
 
-Dataset:
-Our World in Data COVID Dataset
+---
 
+### 🚴 Bike Sales Analysis
+- Excel dashboard project using Pivot Tables  
+- Customer and sales insights  
 
-2. Sales Performance Analysis (Excel)
-Analysis of sales data to identify revenue trends, top products, and regional performance.
+👉 [View Project](coloque-link)
 
+---
 
-Skills demonstrated:
+### 💼 Data Professional Survey Analysis
+- Power BI dashboard analyzing industry data  
+- Salary, roles, and demographics insights  
 
-Pivot Tables
-Charts
-Data Cleaning
-KPI Analysis
+👉 [View Project](coloque-link)
 
+---
 
-File:
-Excel/sales-analysis.xlsx
+## 📈 What I'm Currently Working On
 
+- Improving SQL and data manipulation skills  
+- Learning Python for data analysis  
+- Building new portfolio projects  
 
-3. COVID-19 Dashboard (Power BI)
-Interactive dashboard visualizing global COVID-19 trends including cases, deaths, and vaccination progress.
+---
 
+## 🌍 Languages
 
-Skills demonstrated:
+- Portuguese (Native)  
+- English (Advanced)  
+- Spanish (Basic)  
+- German (Basic)
 
-Data Modeling
-DAX
-Data Visualization
-Dashboard Design
+---
 
+## 📫 Contact
 
-File:
-PowerBI/covid-dashboard.pbix
-
-
-About Me
-Aspiring Data Analyst currently building projects to strengthen my analytical and technical skills.
-
-Focus areas:
-Data Analysis
-Data Visualization
-Business Intelligence
+- LinkedIn: (coloque seu link)
+- Portfolio Website: (coloque seu site)
