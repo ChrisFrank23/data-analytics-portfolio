@@ -1,5 +1,7 @@
 # 🚴 Bike Sales Data Analysis (Excel Project)
 
+![image alt](https://github.com/ChrisFrank23/data-analytics-portfolio/blob/c142ca4ddaacd5227da2a8fdef4c1afe8db01138/Excel/Captura%20de%20tela%202026-03-14%20233936.png)
+
 ---
 
 ## 📌 Project Overview
