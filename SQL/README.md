@@ -1,5 +1,7 @@
 # 🦠 COVID-19 Data Exploration (SQL Project)
 
+![image alt](https://github.com/ChrisFrank23/data-analytics-portfolio/blob/ac269719be369ee36a0b88339665de9c292c7a08/SQL/Captura%20de%20tela%202026-03-14%20234342.png)
+
 ---
 
 ## 📌 Project Overview
