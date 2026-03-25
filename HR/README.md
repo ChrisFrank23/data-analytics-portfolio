@@ -1,7 +1,5 @@
 # 📊 HR Employee Distribution Analysis Dashboard
 
-![image alt](https://github.com/ChrisFrank23/data-analytics-portfolio/blob/fc9fd0eedac3e2d351154df16ce77d432be22795/HR/Captura%20de%20tela%202026-03-24%20101116.png)
-
 ---
 
 ## 📌 Project Overview
@@ -36,7 +34,7 @@ This project analyzes HR data to uncover insights about employee distribution ac
 
 ## 📊 Dashboard Preview
 
-![Dashboard](coloque-aqui-o-link-da-imagem)
+![image alt](https://github.com/ChrisFrank23/data-analytics-portfolio/blob/fc9fd0eedac3e2d351154df16ce77d432be22795/HR/Captura%20de%20tela%202026-03-24%20101116.png)
 
 ---
 
