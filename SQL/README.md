@@ -50,6 +50,7 @@ This project demonstrates strong SQL skills, including data aggregation, joins, 
 
 ---
 
-## 🔗 Project Link
+## 🔗 Links
 
-(coloque-seu-link-aqui)
+- 💼 LinkedIn: https://www.linkedin.com/in/cristhoferfrank/
+- 🌐 Portfolio Website: https://chrisfrank23.github.io/CristhoferPortfolio.github.op/index.html
