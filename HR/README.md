@@ -52,3 +52,8 @@ This project analyzes HR data to uncover insights about employee distribution ac
 This project demonstrates my ability to transform raw data into meaningful insights using SQL and Power BI.
 
 ---
+
+## 🔗 Links
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cristhoferfrank/
+- 🌐 Portfolio Website: https://chrisfrank23.github.io/CristhoferPortfolio.github.op/index.html
