@@ -55,3 +55,7 @@ This project demonstrates my ability to clean, analyze, and visualize data using
 
 ---
 
+## 🔗 Links
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cristhoferfrank/
+- 🌐 Portfolio Website: https://chrisfrank23.github.io/CristhoferPortfolio.github.op/index.html
