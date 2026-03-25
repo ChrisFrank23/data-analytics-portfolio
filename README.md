@@ -9,7 +9,7 @@ Currently building my skills in data analysis, visualization, and business intel
 
 - 📊 Focused on Data Analysis (SQL, Excel, Power BI)
 - 🐍 Currently learning Python for data analytics
-- 🎯 Goal: Become a Data Analyst and grow
+- 🎯 Goal: Become a Data Analyst and grow into Data Engineering
 
 ---
 
@@ -20,11 +20,23 @@ Currently building my skills in data analysis, visualization, and business intel
 - Power BI  
 - Power Query  
 - Data Visualization  
+- Google BigQuery  
 - Basic Python (in progress)
 
 ---
 
 ## 📂 Projects
+
+### 🧠 Customer Segmentation (RFM Analysis) ⭐
+- End-to-end project using SQL in BigQuery  
+- Customer behavior analysis (Recency, Frequency, Monetary)  
+- Advanced SQL (CTEs, Window Functions, NTILE)  
+- Customer segmentation (Champions, VIPs, Risk, etc.)  
+- Data prepared for Power BI dashboard  
+
+👉 [View Project](coloque-link)
+
+---
 
 ### 📊 HR Employee Distribution Dashboard
 - Analysis of workforce data (SQL + Power BI)  
@@ -62,7 +74,8 @@ Currently building my skills in data analysis, visualization, and business intel
 
 - Improving SQL and data manipulation skills  
 - Learning Python for data analysis  
-- Building new portfolio projects  
+- Building advanced data projects  
+- Exploring Data Engineering concepts  
 
 ---
 
