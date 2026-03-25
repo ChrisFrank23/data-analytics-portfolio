@@ -80,5 +80,5 @@ Currently building my skills in data analysis, visualization, and business intel
 
 ## 📫 Contact
 
-- LinkedIn: [(coloque seu link)](https://www.linkedin.com/in/cristhoferfrank/)
+- LinkedIn: ([](https://www.linkedin.com/in/cristhoferfrank/)
 - Portfolio Website: [([coloque seu site](https://chrisfrank23.github.io/CristhoferPortfolio.github.op/index.html))]
