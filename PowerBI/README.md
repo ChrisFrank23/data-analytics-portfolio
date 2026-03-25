@@ -1,7 +1,5 @@
 # 💼 Data Professional Survey Analysis (Power BI Project)
 
-![image alt](https://github.com/ChrisFrank23/data-analytics-portfolio/blob/5a819ba9f0d90de94e060de3260fa6eb797c98a2/PowerBI/Captura%20de%20tela%202026-03-14%20234007.png)
-
 ---
 
 ## 📌 Project Overview
@@ -47,7 +45,7 @@ This project analyzes survey data from professionals in the data industry, explo
 
 ## 📈 Dashboard Preview
 
-![Dashboard](coloque-aqui-o-link-da-imagem)
+![image alt](https://github.com/ChrisFrank23/data-analytics-portfolio/blob/5a819ba9f0d90de94e060de3260fa6eb797c98a2/PowerBI/Captura%20de%20tela%202026-03-14%20234007.png)
 
 ---
 
