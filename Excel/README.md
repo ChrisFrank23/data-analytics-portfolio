@@ -54,6 +54,3 @@ This project highlights my ability to work with Excel for data cleaning, analysi
 
 ---
 
-## 🔗 Project Link
-
-(coloque-seu-link-aqui)
