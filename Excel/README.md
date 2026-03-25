@@ -54,3 +54,7 @@ This project highlights my ability to work with Excel for data cleaning, analysi
 
 ---
 
+## 🔗 Links
+
+- 💼 LinkedIn: https://www.linkedin.com/in/cristhoferfrank/
+- 🌐 Portfolio Website: https://chrisfrank23.github.io/CristhoferPortfolio.github.op/index.html
