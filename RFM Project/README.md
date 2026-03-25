@@ -98,7 +98,7 @@ This project demonstrates how raw transactional data can be transformed into act
 
 ## 📷 Dashboard Preview
 
-*(Add your Power BI dashboard image here)*
+![image alt](https://github.com/ChrisFrank23/data-analytics-portfolio/blob/c2604f100693abcc903226e1c83a27bace07a37e/RFM%20Project/Captura%20de%20tela%202026-03-25%20185028.png)
 
 ---
 
