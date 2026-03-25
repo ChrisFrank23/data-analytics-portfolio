@@ -34,15 +34,11 @@ Currently building my skills in data analysis, visualization, and business intel
 - Customer segmentation (Champions, VIPs, Risk, etc.)  
 - Data prepared for Power BI dashboard  
 
-👉 [View Project](coloque-link)
-
 ---
 
 ### 📊 HR Employee Distribution Dashboard
 - Analysis of workforce data (SQL + Power BI)  
 - Insights on gender, location, diversity, and growth  
-
-👉 [View Project](coloque-link)
 
 ---
 
@@ -50,23 +46,17 @@ Currently building my skills in data analysis, visualization, and business intel
 - SQL-based analysis of global pandemic data  
 - Focus on cases, deaths, and trends  
 
-👉 [View Project](coloque-link)
-
 ---
 
 ### 🚴 Bike Sales Analysis
 - Excel dashboard project using Pivot Tables  
 - Customer and sales insights  
 
-👉 [View Project](coloque-link)
-
 ---
 
 ### 💼 Data Professional Survey Analysis
 - Power BI dashboard analyzing industry data  
 - Salary, roles, and demographics insights  
-
-👉 [View Project](coloque-link)
 
 ---
 
@@ -90,5 +80,5 @@ Currently building my skills in data analysis, visualization, and business intel
 
 ## 📫 Contact
 
-- LinkedIn: (coloque seu link)
-- Portfolio Website: (coloque seu site)
+- LinkedIn: [(coloque seu link)](https://www.linkedin.com/in/cristhoferfrank/)
+- Portfolio Website: [([coloque seu site](https://chrisfrank23.github.io/CristhoferPortfolio.github.op/index.html))]
