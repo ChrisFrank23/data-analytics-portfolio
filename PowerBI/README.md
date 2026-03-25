@@ -55,6 +55,3 @@ This project demonstrates my ability to clean, analyze, and visualize data using
 
 ---
 
-## 🔗 Project Link
-
-(coloque-seu-link-aqui)
