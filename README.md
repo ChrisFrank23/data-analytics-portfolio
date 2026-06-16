@@ -4,12 +4,11 @@
 
 ## 🚀 About Me
 
-I am an aspiring Data Analyst passionate about transforming data into meaningful insights.  
+I am passionate about transforming data into meaningful insights.  
 Currently building my skills in data analysis, visualization, and business intelligence.
 
 - 📊 Focused on Data Analysis (SQL, Excel, Power BI)
 - 🐍 Currently learning Python for data analytics
-- 🎯 Goal: Become a Data Analyst and grow into Data Engineering
 
 ---
 
